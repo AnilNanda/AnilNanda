@@ -19,4 +19,4 @@ Welcome to my Github Profile!
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/1" alt="K8s deployment using GitHub action and ArgoCD"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/0" alt="How to integrate checkov in github workflow">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/1" alt="K8s deployment using GitHub action and ArgoCD"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anilnandat/3" alt="Fork vs Serial in Ansible"> 
